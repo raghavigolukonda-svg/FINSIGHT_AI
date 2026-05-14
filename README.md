@@ -1,6 +1,6 @@
 # FinSight AI — Complete Setup Guide
 
-## 📁 Folder Structure (already correct after unzip)
+## 📁 Folder Structure
 ```
 FinSight/
 ├── backend/
